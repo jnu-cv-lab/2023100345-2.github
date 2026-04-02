@@ -114,7 +114,7 @@ g++ -o main main.cpp $(pkg-config --cflags --libs opencv4)
 通道数: 3
 数据类型: 16
 灰度图已保存为 gray.jpg
-左上角像素 (B, G, R): 109, 98, 87
+左上角像素 (B, G, R): 13, 0, 24
 ```
 
 （实际像素值根据图片内容有所不同）
